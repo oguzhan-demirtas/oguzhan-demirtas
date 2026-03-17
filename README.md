@@ -9,8 +9,8 @@
 Python, Java, C, SQL, Git, GitHub
 
 ## Current Focus
-- Python for Everybody (University of Michigan) – In Progress
-- Google Project Management Certificate – In Progress
+- Coursera Python for Everybody (University of Michigan) – In Progress
+- Coursera Google Project Management Certificate – In Progress
 - Data Structures & Algorithms
 - Improving English for technical communication
 
