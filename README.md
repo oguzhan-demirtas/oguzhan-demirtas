@@ -16,7 +16,7 @@ Python, Java, C, SQL, Git, GitHub
 
 ## Projects
 - 📅 Personal Calendar CLI App (Python)
-- 🏆 Tournament Project (Python) – In Progress
+- 🏆 Tournament Project – In Progress
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/oğuzhan-demirtaş-7b9322168
